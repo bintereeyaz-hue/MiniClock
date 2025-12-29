@@ -1,0 +1,17 @@
+body{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #a5b3cdae;
+   font-family: Arial, Helvetica, sans-serif;
+}
+.container{
+    color: #684603;
+    font-size: 48px;
+    letter-spacing:2px;
+    background-color: #41be92;
+    padding: 10px 20px;
+    border-radius: 12px;
+    box-shadow: 0 0 20px #478431;
+}
